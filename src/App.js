@@ -61,7 +61,7 @@ function App() {
               Search
           </button>
           <a 
-            href='https://github.com/abdibrokhim/StableDiffusion-ReactApp' 
+            href='https://github.com/abdibrokhim/The-Stable-Diffusion-Search-Engine' 
             className='github_icon' 
             target="_blank" 
             rel="noreferrer">
