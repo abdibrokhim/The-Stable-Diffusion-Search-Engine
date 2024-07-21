@@ -1,5 +1,5 @@
 ## Live Demonstration: 
-https://diffuse.ba-students.uz/
+https://lexica-search-engine.vercel.app/
 
 ## Please Review on ProductHunt
 https://www.producthunt.com/products/diffuse-3/reviews/new
